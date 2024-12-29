@@ -1,1 +1,1 @@
-Conflicting change in main branch
+Combined implementation of main branch and feature.
